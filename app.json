@@ -1,16 +1,16 @@
 {
-  "name": "6PG - Discord Bot Maker",
+  "name": "KRAF10 - Discord Bot Maker",
   "description": "Host a bot without code, with one simple step.",
   "keywords": [
     "bot maker",
     "discord bot maker",
-    "6pg"
+    "kraf10 bot maker"
   ],
-  "repository": "https://github.com/theADAMJR/6PG",
+  "repository": "https://github.com/KRAF10oP/6PG",
   "env": {
     "API_URL": {
       "description": "Same as DASHBOARD_URL, but with /api at the end.",
-      "value": "https://<heroku_app_name>.herokuapp.com/api"
+      "value": "https://kraf10botmaker.herokuapp.com/api"
     },
     "CLIENT_ID": {
       "description": "Client ID from https://discord.com/developers.",    
